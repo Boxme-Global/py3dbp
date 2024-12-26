@@ -6,7 +6,6 @@ dist
 .vscode
 venv
 test
-setup.py
 venv
 debug.log
 test*
